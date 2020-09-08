@@ -1,0 +1,4 @@
+# \u73af\u5883\u53c2\u6570\uff1adev-\u5f00\u53d1  prod-\u751f\u4ea7  test-\u6d4b\u8bd5
+spring:
+  profiles:
+    active: test
